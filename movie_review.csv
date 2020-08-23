@@ -1,0 +1,801 @@
+genre,rating,runtime,title,votes,year,ratingRange,runtimeRange
+"Comedy, Drama",6.6,138.0,Chhakka Panja 2,290.0,2017.0,average,>120mins
+Comedy,6.3,,Chhakka Panja 3,96.0,2018.0,average,
+Romance,7.3,120.0,Intu Mintu Londonma,71.0,2018.0,high,60-120
+"Comedy, Drama, Romance",8.6,,Kabaddi Kabaddi Kabaddi,9.0,2019.0,high,
+"Drama, Sport",3.2,,Captain,46.0,2019.0,low,
+Drama,7.1,95.0,Bulbul,18.0,2019.0,high,60-120
+"Comedy, Drama",7.9,135.0,Kabaddi Kabaddi,343.0,2015.0,high,>120mins
+Romance,6.9,142.0,Nai Nabhannu La 2,7.0,2014.0,average,>120mins
+"Drama, Romance",8.5,140.0,Saili,17.0,2019.0,high,>120mins
+"Documentary, Adventure, Drama",7.7,99.0,Death Zone: Cleaning Mount Everest,102.0,2018.0,high,60-120
+Comedy,8.2,,Jatrai Jatra,52.0,2019.0,high,
+Drama,7.0,163.0,Muna Madan,104.0,2003.0,average,>120mins
+"Drama, History",7.7,90.0,Jhola,249.0,2013.0,high,60-120
+Romance,7.5,138.0,Prem Geet,30.0,2016.0,high,>120mins
+"Comedy, Drama",6.8,138.0,Shatru Gate,100.0,2018.0,average,>120mins
+"Comedy, Drama, Romance",8.0,138.0,Jhyanakuti,27.0,2017.0,high,>120mins
+"Adventure, Drama",7.1,89.0,Seto Surya,397.0,2016.0,high,60-120
+"Action, Drama, History",7.2,90.0,Kalo Pothi,466.0,2015.0,high,60-120
+"Drama, Romance",7.7,138.0,A Mero Hajur 2,194.0,2017.0,high,>120mins
+"Comedy, Drama, Family",6.8,130.0,Chhakka Panja,160.0,2016.0,average,>120mins
+"Comedy, Drama, Romance",8.2,123.0,Kabaddi,434.0,2014.0,high,>120mins
+,,125.0,Password,,2019.0,,>120mins
+Comedy,6.0,138.0,Jai Bhole,20.0,2018.0,average,>120mins
+"Drama, Romance",8.8,140.0,Pashupati Prasad,1.0,2016.0,high,>120mins
+Comedy,2.2,,Daal Bhat Tarkari,19.0,2019.0,low,
+"Action, Drama",7.5,,The Man from Kathmandu Vol. 1,20.0,2019.0,high,
+"Drama, Romance",8.0,100.0,Highway to Dhampus,158.0,2014.0,high,60-120
+"Action, Drama",6.5,138.0,Kri,112.0,2018.0,average,>120mins
+Drama,8.6,130.0,Bobby,24.0,2018.0,high,>120mins
+Romance,,,Summer Love,,2019.0,,
+"Short, Drama",,19.0,Yarne,,,,<60
+"Action, Drama",7.5,138.0,Dui Rupaiyan,137.0,2017.0,high,>120mins
+Drama,,,Facebook,,2012.0,,
+Drama,9.1,,Balidaan,31.0,1997.0,high,
+"Action, Comedy, Drama",8.2,150.0,Jatra,159.0,2016.0,high,>120mins
+"Action, Crime",7.4,129.0,Xira,5.0,2019.0,high,>120mins
+Comedy,5.5,130.0,Woda Number 6,16.0,2015.0,average,>120mins
+Romance,,,Kanchhi,,2018.0,,
+"Drama, Romance",7.7,,Mr. Jholay,38.0,2018.0,high,
+Romance,,,Kaira,,2018.0,,
+"Drama, Romance",7.8,,Ghampani,46.0,2017.0,high,
+"Drama, Romance",6.3,125.0,A Mero Hajur 3,26.0,2019.0,average,>120mins
+"Drama, Romance",7.5,138.0,Romeo & Muna,8.0,2018.0,high,>120mins
+Drama,,,Kismat,,2007.0,,
+"Comedy, Drama, Romance",6.8,,The Break Up,5.0,2019.0,average,
+"Drama, Thriller",,138.0,Sherbahadur,,2018.0,,>120mins
+"Action, Comedy",7.4,138.0,Hami Tin Bhai,17.0,2004.0,high,>120mins
+"Crime, Drama, Thriller",8.1,138.0,Loot,746.0,2012.0,high,>120mins
+Drama,9.0,,Muglan,6.0,2005.0,high,
+"Drama, Romance",7.7,138.0,Prem Geet 2,107.0,2017.0,high,>120mins
+Romance,7.3,,Timi Sanga,7.0,2018.0,high,
+"Documentary, Short",,36.0,The Last Honey Hunter,,2018.0,,<60
+"Drama, Romance",7.0,138.0,Aishwarya,6.0,2017.0,average,>120mins
+Romance,,,Notebook,,2013.0,,
+"Short, Music",8.5,4.0,Hemant Rana: Saili,22.0,2017.0,high,<60
+"Drama, Musical",8.8,134.0,Maitighar,19.0,1966.0,high,>120mins
+"Short, Drama",8.8,15.0,Ashmina,31.0,2018.0,high,<60
+"Documentary, Short",9.5,,Herne Katha,56.0,2018.0,high,
+Comedy,7.9,30.0,Harke Haldar,10.0,2011.0,high,<60
+Romance,7.1,,Changa Chet,7.0,2018.0,high,
+"Drama, Romance",6.7,129.0,Ritu Nepali Feature Film,21.0,2014.0,average,>120mins
+,8.0,,Yug Dekhi Yug Samma,24.0,1991.0,high,
+Drama,8.4,149.0,Deuta,14.0,1993.0,high,>120mins
+"History, Musical, Romance",7.9,164.0,Basanti,74.0,2000.0,high,>120mins
+"Action, Crime, Drama",6.1,130.0,Loot 2,153.0,2017.0,average,>120mins
+"Action, Drama",8.2,133.0,Talakjung vs Tulke,465.0,2014.0,high,>120mins
+"Drama, Family",,,Homework,,2016.0,,
+Drama,7.0,121.0,Gopi,9.0,2019.0,average,>120mins
+Documentary,6.6,118.0,Manakamana,650.0,2013.0,average,60-120
+"Drama, Musical, Romance",6.9,,Kusume Rumal,111.0,1985.0,average,
+"Crime, Drama",8.0,138.0,Naakaa,9.0,2017.0,high,>120mins
+,,,Allare,,1998.0,,
+Romance,,,Andaj,,2011.0,,
+Drama,6.4,135.0,Hostel,28.0,2013.0,average,>120mins
+"Comedy, Horror, Romance",6.2,144.0,Ramkahani,13.0,2018.0,average,>120mins
+"Drama, Horror",7.3,130.0,Kagbeni,426.0,2008.0,high,>120mins
+"Drama, Romance",,,Yatra: A Musical Vlog,,2019.0,,
+"Action, Musical, Romance",7.2,,Super Star,18.0,2001.0,high,
+"Crime, Romance",,91.0,Rose,,2018.0,,60-120
+"Short, Drama",,,Rahasya,,2018.0,,
+"Drama, Mystery",8.7,30.0,Meri Bassai,12.0,2006.0,high,<60
+Family,6.7,,Kathmandu,18.0,2011.0,average,
+"Drama, Romance",,,Love Station,,2019.0,,
+History,,,Dasdhunga Chapter 2,,2020.0,,
+Drama,7.1,,Nepali Babu,13.0,1999.0,high,
+"Comedy, Drama, Romance",,,Kagaz Patra,,2019.0,,
+Drama,6.8,106.0,Samjhana,10.0,1983.0,average,60-120
+Drama,,,Meri Mamu,,2018.0,,
+"Comedy, Romance",7.1,144.0,Sano Sansar,253.0,2008.0,high,>120mins
+Drama,6.5,80.0,Highway,194.0,2012.0,average,60-120
+Romance,,,Mr. Virgin,,2018.0,,
+Drama,8.1,105.0,Mukundo,25.0,2000.0,high,60-120
+Romance,7.5,138.0,Rajja Rani,22.0,2018.0,high,>120mins
+Romance,,,Sushree Sampatti,,2018.0,,
+"Documentary, Short, Drama",9.2,7.0,Videos,6.0,2012.0,high,<60
+Drama,7.7,,Mitini,7.0,2002.0,high,
+"Drama, Family",8.8,126.0,Dying Candle,24.0,2016.0,high,>120mins
+Drama,8.2,,Hari,25.0,2018.0,high,
+Comedy,,,Lobhi Papi,,1990.0,,
+Drama,,105.0,Halkara,,2020.0,,60-120
+Romance,,120.0,Nai Nabhannu La 4,,2016.0,,60-120
+"Comedy, Drama",8.4,138.0,Gaja Baja,34.0,2018.0,high,>120mins
+"Drama, Romance",6.5,,Katha Kathmandu,8.0,2018.0,average,
+Drama,6.6,122.0,Hostel Returns,21.0,2015.0,average,>120mins
+"Drama, History",6.2,,Seto Bagh,8.0,2015.0,average,
+"Drama, Romance",7.7,153.0,Manjari,10.0,2013.0,high,>120mins
+"Biography, Drama, Music",8.6,147.0,Acharya,52.0,2011.0,high,>120mins
+"Drama, Romance",8.5,,Prasad,33.0,2018.0,high,
+"Musical, Romance",6.9,,Ma Yesto Geet Gaauchu,45.0,2017.0,average,
+Romance,,142.0,K Ma Timro Sathi Banna Sakchhu,,2012.0,,>120mins
+"Drama, Romance",7.9,138.0,Chino,69.0,1991.0,high,>120mins
+Romance,,134.0,Nai Nabhannu La 3,,2015.0,,>120mins
+"Action, Drama",9.0,,Aama,27.0,1964.0,high,
+Drama,8.4,,Kanyadaan,7.0,1991.0,high,
+Romance,5.7,116.0,Jerryy,54.0,2014.0,average,60-120
+"History, Romance",8.2,,Prem Pinda,41.0,1995.0,high,
+Drama,3.3,138.0,Bhairav,19.0,2015.0,low,>120mins
+"Drama, Horror",4.9,138.0,Sunkesari,39.0,2018.0,low,>120mins
+,7.6,,Siudo Ko Sindoor,7.0,2001.0,high,
+"Action, Drama",9.1,112.0,Taandro,26.0,2015.0,high,60-120
+Drama,6.6,120.0,Karkhana,7.0,2016.0,average,60-120
+"Comedy, Drama",8.2,,Dhanapati,65.0,2017.0,high,
+Drama,,20.0,The Butterfly Effects,,,,<60
+Drama,,138.0,Kohinoor,,2014.0,,>120mins
+Drama,,,Sindoor,,1980.0,,
+Romance,5.3,,I Am Sorry,15.0,2012.0,average,
+Adventure,8.8,,Himalaya Roadies,21.0,2017.0,high,
+Comedy,,,Na Yeta Na Uta,,2019.0,,
+Romance,7.4,,Nai Nabhannu La,5.0,2010.0,high,
+Short,,10.0,Bato Ma,,2019.0,,<60
+"Comedy, Drama",8.2,,America Boys,13.0,2018.0,high,
+Drama,,58.0,Ujeli: A Child Bride in Nepal,,1992.0,,<60
+"Action, Drama, Romance",,,Samhalinchha Kahile Mann,,,,
+Drama,,,Pandit Bajeko Lauri,,2018.0,,
+"Documentary, Family, Musical",9.3,59.0,Sunakali,19.0,2017.0,high,<60
+"Comedy, Drama, Sci-Fi",8.5,104.0,Bijuli Machine,38.0,2016.0,high,60-120
+"Short, Drama",,15.0,Bare Trees in the Mist,,2019.0,,<60
+"Drama, Musical",7.0,90.0,Darpan Chhaya,157.0,2001.0,average,60-120
+"Comedy, Drama",7.5,,Ta Ta Sarai Bigris Ni Badri,6.0,2000.0,high,
+"Short, Drama",,24.0,Kamaro,,2015.0,,<60
+"Short, Drama",9.1,17.0,Kafal pakyo,21.0,2014.0,high,<60
+Drama,,,Mangalam,,2018.0,,
+"Action, Drama",,,Seemana,,1996.0,,
+"Biography, Romance",,138.0,Blind Rocks,,2018.0,,>120mins
+Documentary,8.6,58.0,Black Buddhas,7.0,2011.0,high,<60
+Drama,8.6,138.0,Basudev,23.0,1984.0,high,>120mins
+Drama,8.0,,Saino,8.0,1987.0,high,
+"Crime, Drama",6.8,111.0,Lappan Chhappan,26.0,2017.0,average,60-120
+Drama,8.3,,Saayad 2,6.0,2017.0,high,
+Drama,,,Ma Timi Bina Marihalchu,,2008.0,,
+"Horror, Mystery, Thriller",,90.0,Kathaputali,,,,60-120
+Short,8.3,,Bholi Dekhi Chhodi Dinchhu,9.0,2017.0,high,
+"Drama, Romance",7.1,,Fateko Jutta,17.0,2017.0,high,
+Drama,,,Classic,,2016.0,,
+Drama,7.9,120.0,Masaan,42.0,2011.0,high,60-120
+Drama,8.6,,Man ko bandh,8.0,1973.0,high,
+Romance,5.2,,Dreams,25.0,2016.0,average,
+"Comedy, Drama",6.5,123.0,Jholay,19.0,2014.0,average,>120mins
+"Short, Sci-Fi",8.0,,Ozone Layer,7.0,2009.0,high,
+"Drama, Romance",8.6,138.0,Gothalo,9.0,1996.0,high,>120mins
+Comedy,,,Selfie King,,2020.0,,
+Biography,,,Maina,,2008.0,,
+Drama,8.0,,Saanghuro,31.0,2013.0,high,
+"Drama, Romance",6.4,138.0,Lalpurja,10.0,2018.0,average,>120mins
+"Comedy, Drama",7.8,145.0,Purano Dunga,59.0,2016.0,high,>120mins
+"Drama, Romance",6.0,132.0,Bato Muniko Phool 2,5.0,2016.0,average,>120mins
+"Short, Drama",,,MOTHER -Maa,,2017.0,,
+"Drama, Sport",8.9,138.0,Damaruko Dandibiyo,35.0,2018.0,high,>120mins
+Reality-TV,,,The Voice of Nepal,,2018.0,,
+"Drama, Romance",6.6,138.0,Lily Bily,23.0,2018.0,average,>120mins
+"Action, Comedy, Drama",,,Ranveer,,2019.0,,
+Drama,,,Sunpani,,2015.0,,
+"Comedy, Crime",7.6,125.0,Lukamari,78.0,2016.0,high,>120mins
+"Drama, History",6.8,138.0,Panchayat,5.0,2017.0,average,>120mins
+"Short, Romance",,,Kutu Ma Kutu,,2017.0,,
+Drama,,,Adhikar,,1993.0,,
+Drama,8.8,90.0,Basain,23.0,2005.0,high,60-120
+Drama,8.4,108.0,Numafung,52.0,2001.0,high,60-120
+"Short, Drama",,15.0,Jha lo,,2016.0,,<60
+"Drama, Romance",7.6,138.0,Batomuni Ko Phool,8.0,2010.0,high,>120mins
+"Short, Drama",8.7,,Pooja,45.0,2010.0,high,
+Drama,,98.0,Markyu,,2019.0,,60-120
+"Crime, Drama, Thriller",,150.0,Mango Pickle,,,,>120mins
+"Action, Comedy, Romance",5.6,136.0,Bir Bikram,47.0,2016.0,average,>120mins
+,7.9,,Dasdhunga,9.0,2010.0,high,
+Drama,,,Panche Baja,,2018.0,,
+Drama,,,Mohani,,1994.0,,
+Drama,8.6,,Janma Bhoomi,5.0,1995.0,high,
+Romance,6.2,135.0,First Love,37.0,2010.0,average,>120mins
+Comedy,,128.0,Raato Ghar,,2017.0,,>120mins
+"Drama, Romance",,138.0,Kafal Pakyo,,2016.0,,>120mins
+Romance,7.2,161.0,Mero Euta Saathi Cha,88.0,2009.0,high,>120mins
+"Comedy, Drama, Mystery",8.1,139.0,Paral Ko Aago,18.0,1978.0,high,>120mins
+Drama,,,A Mero Hajur,,2002.0,,
+"Short, Adventure, Drama",,11.0,Kathmandude,,2017.0,,<60
+"Action, Comedy",8.2,,Je Bho Ramrai Bho,16.0,2003.0,high,
+"Drama, Mystery, Romance",7.3,50.0,DristiBhram,19.0,2015.0,high,<60
+Drama,,,Jeevan Rekha,,1982.0,,
+"Drama, Romance",6.9,138.0,Kasle Choryo Mero Man,11.0,2010.0,average,>120mins
+"Action, Crime, Romance",6.9,138.0,Gangster Blues,33.0,2017.0,average,>120mins
+Drama,,,Swarga,,1994.0,,
+"Comedy, Drama, Music",8.6,135.0,Mokshya,9.0,2014.0,high,>120mins
+"Music, Mystery",8.1,60.0,Nepal Idol,58.0,2017.0,high,<60
+Drama,7.9,75.0,Birami Sahar (Sick City),61.0,2011.0,high,60-120
+Comedy,,,Garud Puran,,2019.0,,
+Drama,8.0,140.0,Uma,20.0,2013.0,high,>120mins
+Family,,,Tshering,,2018.0,,
+Drama,,,Pal,,2011.0,,
+Documentary,8.2,89.0,Children of God,72.0,2008.0,high,60-120
+Action,7.1,,Jung Bahadur Ko Coat,8.0,2015.0,high,
+,6.3,,Aafno Manchhe,7.0,2001.0,average,
+Drama,,,Himmatwali,,2014.0,,
+"Drama, Musical",,,Karkash,,2013.0,,
+"Biography, Drama",,,Aadi Kabi Bhanubhakta,,1999.0,,
+Action,,100.0,Mission Paisa 2: Reloaded,,2015.0,,60-120
+"Action, Thriller",6.8,125.0,Chhadke,66.0,2013.0,average,>120mins
+"Drama, Musical, Romance",7.4,,Silu,5.0,1987.0,high,
+,9.2,,Kumari,6.0,1977.0,high,
+"Short, Music",,,Rupak Dotel & Anju Panta: Banki Chari,,2018.0,,
+,8.2,,Muskan,6.0,2002.0,high,
+Romance,6.6,,Mero Love Story,14.0,2011.0,average,
+"Drama, Family, Romance",6.2,133.0,Gajalu,16.0,2016.0,average,>120mins
+"Short, Music",,5.0,Jaula Relaima,,2017.0,,<60
+Drama,7.5,105.0,Visa Girl,37.0,2012.0,high,60-120
+"Short, Drama",9.5,15.0,Singha Durbar,8.0,2016.0,high,<60
+,,97.0,Apsara,,2000.0,,60-120
+Drama,,100.0,Chhayan,,2016.0,,60-120
+Horror,5.6,,Parva,7.0,2017.0,average,
+"Drama, History",,,Simarekha,,1997.0,,
+Drama,8.2,,Dui Thopa Aansu,6.0,1993.0,high,
+Documentary,,29.0,Last Nomads of Everest,,2017.0,,<60
+"Drama, Horror, Thriller",,85.0,Basenji,,2020.0,,60-120
+Romance,,,Bandha Mayale,,2018.0,,
+"Comedy, Drama",,149.0,Hasi Deu Ek Phera,,2010.0,,>120mins
+Action,,113.0,The Commando,,2007.0,,60-120
+Drama,8.4,,Lama La,5.0,2016.0,high,
+"Short, Fantasy",,22.0,Love? Lust? Life?,,2015.0,,<60
+"Comedy, Drama",3.8,138.0,How Funny,12.0,2016.0,low,>120mins
+"Drama, Romance",7.6,138.0,Dewar Babu,5.0,2007.0,high,>120mins
+Drama,,,Kathaa '72,,2018.0,,
+"Short, Drama",,14.0,A Year,,2018.0,,<60
+"Action, Drama, War",8.1,,Lahure,18.0,1989.0,high,
+Romance,,,Rato Galbandi,,2019.0,,
+Crime,,,Chakkar,,2018.0,,
+Drama,6.2,,Silsila,6.0,2009.0,average,
+Thriller,6.5,,Jhumkee,10.0,2016.0,average,
+Romance,,,Biteka Pal,,2014.0,,
+"Short, Thriller",,9.0,Dhoka,,2017.0,,<60
+"Short, Drama, Thriller",6.0,20.0,Sahasi Chori,12.0,2013.0,average,<60
+"Documentary, Drama",9.0,96.0,Drawing the Tiger,5.0,2015.0,high,60-120
+Drama,,,Jani Najani,,2019.0,,
+"Drama, Thriller",7.5,114.0,Ko Afno,11.0,2015.0,high,60-120
+Romance,7.7,132.0,November Rain,30.0,2014.0,high,>120mins
+Romance,,,Subha Love,,2019.0,,
+"Short, Drama, Fantasy",,3.0,Pandorum,,2016.0,,<60
+Comedy,,,Jai Shree Daam,,2018.0,,
+"Adventure, Reality-TV",,21.0,Sammy Adventures,,2016.0,,<60
+Drama,7.6,,Palash,5.0,2017.0,high,
+"Drama, Musical",6.9,,Darpan Chhaya 2,8.0,2017.0,average,
+Action,,,Nepal,,,,
+"Action, Comedy",7.8,,Thuldai,16.0,1999.0,high,
+Drama,,,Fingerprint,,2019.0,,
+Action,,,Rumalai Chha Chino,,2019.0,,
+Drama,8.4,,Chameli,7.0,1999.0,high,
+Romance,,,Premleela,,2019.0,,
+Drama,,,Pahuna,,2003.0,,
+Romance,7.2,,Love Sasha,12.0,2017.0,high,
+Drama,8.3,99.0,God Lives in the Himalayas,23.0,2009.0,high,60-120
+"Game-Show, Reality-TV",8.9,,Ko Banchha Crorepati,7.0,2019.0,high,
+Documentary,8.5,,Who Will Be a Gurkha,29.0,2012.0,high,
+Drama,,,Mausam,,2009.0,,
+Drama,,,Sukha Dukha,,2004.0,,
+History,,84.0,Kina Ma? 2019,,2019.0,,60-120
+"Biography, Drama",8.4,,Teen Ghumti,14.0,2016.0,high,
+"Drama, Romance",,,Saathi,,1998.0,,
+Action,,,Commitment: 60 Hours,,,,
+Documentary,,60.0,The Sound of Silence,,1996.0,,<60
+"Drama, Sport",,,Hamro Team,,2011.0,,
+Documentary,,55.0,Bhedako Oon Jasto,,2006.0,,<60
+"Comedy, Drama",5.7,152.0,Resham Filili,102.0,2015.0,average,>120mins
+Drama,8.5,90.0,KTM Cocktale,24.0,2017.0,high,60-120
+Romance,,,Rahar,,1996.0,,
+Drama,,90.0,Karma,,2006.0,,60-120
+"Short, Adventure, Drama",7.0,18.0,The Contagious Apparitions of Dambarey Dendrite,11.0,2013.0,average,<60
+Drama,,,Panchhi,,2001.0,,
+"Short, Music",,5.0,Ketan Chettri: Lai Lai,,2018.0,,<60
+"Documentary, Short",,40.0,Tibetan Illusion Destroyer,,,,<60
+Horror,4.9,,Ek Din Ek Raat,7.0,2011.0,low,
+Drama,,,Adalat,,2019.0,,
+"Drama, Romance",,,Behuli,,1989.0,,
+Drama,,,Ma Yesto Geet Gauchhu 2,,,,
+Documentary,,84.0,Trembling Mountain,,2016.0,,60-120
+,,,The Rickshaw Puller,,2002.0,,
+Romance,7.2,126.0,Kohi Mero,12.0,2010.0,high,>120mins
+"Documentary, Short, Drama",8.7,12.0,Parivara,6.0,2016.0,high,<60
+"Short, Music",,,Pashupati Sharma: Lutna Sake Lut,,2019.0,,
+"Action, Drama, Thriller",6.4,,Fanko,17.0,2016.0,average,
+"Comedy, Drama",7.5,,Apabad,66.0,2012.0,high,
+Comedy,,,Laure,,,,
+,,,Afno Ghar Afno Manche,,2001.0,,
+"Adventure, Family",,70.0,Bicycle Dreams,,2014.0,,60-120
+Romance,7.9,163.0,Dhukdhuki,7.0,2000.0,high,>120mins
+Drama,,,Boyfriend,,2019.0,,
+Action,,120.0,Hero Returns,,2017.0,,60-120
+"Short, Music",,,Hemant Rana: Nacha Maya,,2018.0,,
+"Animation, Biography, Drama",7.7,55.0,The Legend of Shankhadhar,13.0,2016.0,high,<60
+Drama,,,Saraswati,,1995.0,,
+Romance,,,Bhool Bhulaiyaa,,2015.0,,
+"Drama, Horror, Mystery",7.3,,Ber Pipal,7.0,2001.0,high,
+Action,5.9,,Batch No.16,37.0,2011.0,average,
+"Short, Drama, Thriller",,42.0,Between Matina,,2013.0,,<60
+Action,,,The Karma,,2018.0,,
+Documentary,,63.0,Seven Days in Nepal,,2017.0,,60-120
+Drama,,,Antaral,,2013.0,,
+"Documentary, Adventure",,101.0,Everest 3 Pass Trek,,2018.0,,60-120
+Comedy,8.0,,Chankhe Shankhe Pankhe,6.0,2015.0,high,
+,,,Krodh,,2006.0,,
+"Drama, Family",7.7,88.0,Red Monsoon,16.0,2014.0,high,60-120
+Drama,,,Himmat,,2008.0,,
+Romance,,,Ke Ma Timro Hoina Ra,,2016.0,,
+Action,,,Hairaan,,2017.0,,
+"Drama, Romance",7.4,,Nai Nabhannu La 5,31.0,2018.0,high,
+Drama,,,Mirga Trishna,,2012.0,,
+Documentary,,52.0,Blue Kangling,,,,<60
+Comedy,7.6,,Kohalpur Express,10.0,2018.0,high,
+Crime,6.7,,Sambodhan,7.0,2015.0,average,
+Drama,7.2,155.0,Love You Baba,10.0,2014.0,high,>120mins
+Action,,,Jai Parshuram,,2016.0,,
+Family,6.7,73.0,Serdhak,7.0,2015.0,average,60-120
+"Comedy, Drama",7.1,110.0,Suntali,19.0,2014.0,high,60-120
+"Short, Drama",,4.0,Transforming the Present,,2015.0,,<60
+Drama,,129.0,Goodbye Kathmandu,,2017.0,,>120mins
+,8.8,,Badal Paree,8.0,2001.0,high,
+"Short, Drama",,13.0,The Moon is Bright Tonight,,2017.0,,<60
+Thriller,,,Marina,,,,
+Comedy,,,100 Kada 10,,2019.0,,
+Action,,,Chunauti,,1996.0,,
+"Drama, Romance",6.9,135.0,Kusume Rumal 2,27.0,2010.0,average,>120mins
+"Documentary, Adventure, Drama",,108.0,Pasul Ascultarii,,,,60-120
+Documentary,,80.0,So Flo Floods,,2017.0,,60-120
+"Drama, Romance",,,Lahana,,2002.0,,
+"Drama, Romance",,,K Yo Maya Ho,,2011.0,,
+Drama,,,Pachhis Basanta,,1989.0,,
+"Short, Drama, Family",7.8,30.0,Phulsiri,6.0,2016.0,high,<60
+"Drama, Romance",8.3,,Dakshina,25.0,1993.0,high,
+,7.9,,Kanchi,9.0,1984.0,high,
+Drama,,,Dokh,,,,
+,7.1,,Gaunthali,8.0,2001.0,high,
+Drama,,,Birkhelai Chinchhas,,2014.0,,
+"Drama, Romance",,,Bansuri,,1981.0,,
+Drama,,,Kaha Bhetiyela,,2008.0,,
+Documentary,,,Green Blood,,2013.0,,
+Drama,,,Hifajat,,2010.0,,
+Drama,,,Purano Bullet,,2019.0,,
+Action,7.2,,Tandav,5.0,2014.0,high,
+"Short, Drama",,26.0,Babu,,2019.0,,<60
+,,,Yo Maya Ko Sagar,,2001.0,,
+Drama,,,Jindagani,,2000.0,,
+Romance,5.0,,Love Love Love,12.0,2017.0,low,
+"Action, Drama",5.1,,Lalteen,7.0,2017.0,average,
+Drama,,,Shiris ko Phool,,2012.0,,
+Talk-Show,,26.0,The Human Face,,2014.0,,<60
+Romance,,,Aadhi Beri,,1991.0,,
+Action,,,King Returns,,2017.0,,
+"Short, Drama",10.0,38.0,1 Percent,7.0,2012.0,high,<60
+"Drama, Romance",6.8,,Karodpati,5.0,1997.0,average,
+Documentary,,70.0,Project Rockin' High,,2016.0,,60-120
+"Short, Drama",,5.0,A Woman of Merit,,2015.0,,<60
+Drama,,109.0,Bulbul,,,,60-120
+Biography,,,Jiwan Kanda Ki Phool,,2019.0,,
+Comedy,,,Jadugar 2,,2019.0,,
+Drama,6.9,127.0,Saayad,17.0,2012.0,average,>120mins
+Drama,,130.0,Tata Bye Bye,,2015.0,,>120mins
+"Documentary, Short",,,Nepal its Business Unusual,,2015.0,,
+Documentary,,90.0,Untouchable Love,,2011.0,,60-120
+"Horror, Mystery, Thriller",8.2,125.0,Zhigrana,69.0,2015.0,high,>120mins
+Crime,,,Raja,,,,
+,8.3,,Shankar,6.0,1997.0,high,
+"Drama, Romance",,,Fateko Jutta 2,,2018.0,,
+Documentary,,84.0,Beauty and Brains,,2010.0,,60-120
+Drama,,,Dhanda,,2012.0,,
+"Short, Mystery, Romance",,,Maya Ko Sansar,,2017.0,,
+"Short, Music",,,16 Barse Yoban Salala Bage Jasto,,2019.0,,
+Documentary,,75.0,On the Road with the Red God: Machhendranath,,2006.0,,60-120
+Action,8.1,,Challenge,7.0,2011.0,high,
+"Drama, Romance",,,Rhythm,,2013.0,,
+,8.2,140.0,Daag,5.0,2001.0,high,>120mins
+,,,Maan,,2002.0,,
+Biography,,,Bses Slwl I: The Musical Journey,,2019.0,,
+Drama,,,Mahamaya,,1995.0,,
+Drama,,,Akaal,,2014.0,,
+"Biography, Drama",,138.0,Rudane,,2018.0,,>120mins
+Drama,,110.0,Ainaa Jhyaal Ko Putali,,2018.0,,60-120
+Thriller,7.4,,The Winner,7.0,2016.0,high,
+"Drama, Fantasy, Mystery",6.8,85.0,Mystic Mountain,6.0,2015.0,average,60-120
+Musical,7.4,,Swor-The Melody of Dreams,7.0,2011.0,high,
+"Comedy, Drama",,120.0,Mle Kyu,,2019.0,,60-120
+"Drama, Family",,,Pardeshi,,2015.0,,
+Drama,,,Shree Swosthani,,1994.0,,
+"Short, Drama, Music",7.5,4.0,Nostalgia Musical,6.0,2011.0,high,<60
+Action,,80.0,Gorkha rakshyak,,2012.0,,60-120
+Comedy,,122.0,Iku the Jungle Man,,2008.0,,>120mins
+Drama,,,Khaag,,2019.0,,
+,,,Buhari,,2001.0,,
+Drama,,,Hello Jindagi,,,,
+"Action, Drama, Romance",,,Happy Days,,2018.0,,
+Comedy,,,Chauka Dau,,2019.0,,
+"Drama, Family",7.6,109.0,In Search of a Nation,12.0,2015.0,high,60-120
+Drama,7.2,100.0,Badhshala,22.0,2013.0,high,60-120
+"Biography, Romance",,120.0,Dipendra Sarkar,,,,60-120
+"Adventure, Drama",7.6,,Aadha Love,5.0,2017.0,high,
+"Documentary, Adventure, Sport",6.6,52.0,Langtang,5.0,2015.0,average,<60
+Romance,,,Chhodi Gaye Paap Lagla,,2010.0,,
+"Documentary, Short",,,Wasfia,,2016.0,,
+"Short, Thriller",,,Counterpart,,2017.0,,
+Drama,,160.0,Khai O Mheetheba,,2017.0,,>120mins
+Drama,,,Cops,,2019.0,,
+Documentary,5.6,56.0,Journey to Yarsa,5.0,2011.0,average,<60
+Drama,,124.0,Rahadani,,2016.0,,>120mins
+"Short, Music",,5.0,Deepak Bajracharya: Man Magan,,2018.0,,<60
+"Short, Drama, Romance",,28.0,Pratibimba,,2013.0,,<60
+"Short, Drama",6.7,15.0,Bansulli,11.0,2012.0,average,<60
+Drama,,,Lamphoo,,2018.0,,
+,8.6,,Jeevan Saathi,5.0,2001.0,high,
+Family,,,Kahi Katai,,2018.0,,
+Romance,,,Madhu Malati,,2017.0,,
+Drama,,,Tulashi,,2019.0,,
+"Drama, Romance",7.8,132.0,Aavash,8.0,2015.0,high,>120mins
+Thriller,,121.0,Superhit,,2016.0,,>120mins
+,,,Manai Ta Ho,,2001.0,,
+Drama,,,Santan,,1989.0,,
+"Reality-TV, Sport",,15.0,Sushant Pradhan,,2014.0,,<60
+"Documentary, Short",7.5,17.0,"Conserving World Heritage Site, Patan Durbar Square",6.0,2005.0,high,<60
+Reality-TV,,60.0,Nepal's Mega Cinestar,,2019.0,,<60
+Drama,7.3,,Utsav,7.0,2014.0,high,
+"Documentary, Biography, Crime",,88.0,Save Gangamaya,,2016.0,,60-120
+,6.2,,Aago,8.0,2000.0,average,
+"Short, Adventure",,18.0,Supermonk,,2018.0,,<60
+Documentary,,,Maynati: Poetry Against Modern Day Slavery,,,,
+"Short, Drama",,,Take the Lead,,2009.0,,
+Documentary,,,Kathabhitra ka Kathaharo,,2009.0,,
+"Documentary, Short, History",,17.0,Chhintang 2036 B.S.,,2019.0,,<60
+Short,,,Duplicity,,2010.0,,
+"Short, Musical",,,Thaha Chaina,,2005.0,,
+,8.1,,Nepal Pyaro Chha,19.0,2001.0,high,
+Thriller,,,Anaagat,,,,
+Drama,,,Heroz,,2018.0,,
+Drama,,,Hijo Aaja Bholi,,1968.0,,
+Drama,,,Maya's Bar,,2012.0,,
+,,,Haudey,,2001.0,,
+,,,Dhansamphati,,2002.0,,
+"Short, Music",,,Bikram Baral: Barai Kayari Bachaulaa,,2018.0,,
+Drama,,,Maun,,2013.0,,
+Action,,,Hasiya,,2014.0,,
+Documentary,,,Khatte: The Choice of Freedom,,2015.0,,
+Romance,,,Maya Ta Maya Ho,,2009.0,,
+Crime,7.1,,Fitkiree,29.0,2014.0,high,
+Romance,,,Janma Janma,,1994.0,,
+Action,,125.0,Gorkha Rachhayak,,2009.0,,>120mins
+"Short, Music",,6.0,April Rush: Tyo Hawa,,2016.0,,<60
+"Documentary, Short",,10.0,Utkarsha: Drive Towards Drug Prevention,,2015.0,,<60
+Comedy,,148.0,Producer,,2014.0,,>120mins
+Musical,,30.0,Pokhara.com,,2003.0,,<60
+Short,,,Sun Ko Pinjada,,2017.0,,
+"Documentary, Short, Biography",7.4,37.0,Woman Rebel,23.0,2010.0,high,<60
+"Documentary, Short, Drama",,27.0,The Korean Dream,,2013.0,,<60
+,6.2,,Afanta,5.0,1999.0,average,
+"Drama, Romance",,,Radha,,2016.0,,
+Action,,112.0,Deciphering Me,,2014.0,,60-120
+Comedy,,127.0,Changa,,2018.0,,>120mins
+Short,,,Moving Mountains: The Awakening,,2017.0,,
+Short,7.5,,Jaalgedi,8.0,2017.0,high,
+"Short, Drama",,15.0,Smoke through a spider web,,2018.0,,<60
+Short,,,Bardo,,2019.0,,
+"Animation, Action, Crime",6.5,120.0,Mission Paisa,17.0,2009.0,average,60-120
+"Documentary, Short",,,Mero Gaon: My Village,,2016.0,,
+,,,Black and White Photo,,,,
+"Documentary, Short, News",,9.0,Safe Schools: Nepal,,2016.0,,<60
+,,,Hateri,,2002.0,,
+,,,Maya Baiguni,,2001.0,,
+"Drama, Romance",,,Bhagya Rekha,,1989.0,,
+Drama,,140.0,The Yug Dekhi Yug Samma,,2009.0,,>120mins
+"Action, Comedy, Drama",,111.0,Himalayan Kingdom of Nepal,,2007.0,,60-120
+Drama,,115.0,Manko Babari,,2017.0,,60-120
+Short,,,Samaya Ra Paristhiti 2,,2017.0,,
+,,,Yo Kasto Saino,,2001.0,,
+"Short, Family",9.6,3.0,Ma Byujiyepachi,17.0,2015.0,high,<60
+"Short, Drama",,16.0,Lachhamaniya,,2017.0,,<60
+,7.0,,Mero Hajur,5.0,2002.0,average,
+Family,,,Play Pause Stop,,2016.0,,
+Drama,,,Gaunki Chhori,,2018.0,,
+Drama,,63.0,Vismrit: Forgotten,,2018.0,,60-120
+"Documentary, Adventure",,45.0,The Rat Hunters,,2010.0,,<60
+"Short, Drama",,,Savitri,,2013.0,,
+,,,Timrai Lagi,,2001.0,,
+"Documentary, Short, Biography",,24.0,The Walking Hospital,,2011.0,,<60
+,,,Pheri Temro Yaad Aayo,,2002.0,,
+Drama,7.7,,Ajhai Pani,6.0,2015.0,high,
+,,,Sagun,,1998.0,,
+,,,Mohani Lagla Hai,,2002.0,,
+Drama,8.1,90.0,Jetho Kancha,7.0,2003.0,high,60-120
+Drama,,,Love is Life,,2013.0,,
+"Documentary, Animation",,106.0,Melmilap,,2017.0,,60-120
+Drama,,,Anyay,,1989.0,,
+,,,Manmandir,,2002.0,,
+"Comedy, Drama",,,Mero Paisa Khoi,,2017.0,,
+,8.8,,Maya Namara,8.0,2002.0,high,
+"Short, Music",,,Majipa: Birsideu,,2016.0,,
+"Documentary, Short, Biography",,24.0,The Shape of Things,,2011.0,,<60
+"Short, Musical",,,Sahar Jane Kura Sunera,,2002.0,,
+Short,,,Love at First Sight,,2010.0,,
+"Documentary, Short",,28.0,Beyond the Waters,,2017.0,,<60
+"Short, Musical, Romance",,4.0,Anish Rajbhandari: Changa,,2017.0,,<60
+,,,Army,,2001.0,,
+Drama,,83.0,The Monk: Lama La,,2016.0,,60-120
+"Documentary, Short, News",,39.0,Troubled Water,,2014.0,,<60
+"Short, Drama",,28.0,Awaken Eyes,,2008.0,,<60
+"Short, Musical",,,Yatra Ma Bhetera,,2000.0,,
+,,,Malai Maaf Garidau,,2002.0,,
+Short,,,Breaking Walls,,2016.0,,
+"Documentary, Short",,30.0,Timber to Tibet,,2006.0,,<60
+"Documentary, Adventure",,52.0,Tashi's Turbine,,2015.0,,<60
+Drama,,,Bhuimanchhe,,2017.0,,
+Short,,14.0,Chame and Thame,,2014.0,,<60
+"Short, Drama",7.2,34.0,Nabarsiyeki Jhari,10.0,2006.0,high,<60
+"Drama, Family",,60.0,Aamako Man,,2018.0,,<60
+Short,,,Surya Ply,,2003.0,,
+"Short, Musical",,2.0,Sex Ed,,2015.0,,<60
+Documentary,,,Where Have All The Smiles Gone,,,,
+"Documentary, Adventure",,26.0,Dancing on the Fire: Khali Khaney,,2011.0,,<60
+Short,,7.0,Remembering Tarkovsky,,2016.0,,<60
+Short,,,Chyatiyeko Note (A Day with Rs 100),,2010.0,,
+"Short, Music, Musical",6.6,5.0,Ujwal Bhandari: K dosh thiyo...,5.0,2006.0,average,<60
+Thriller,,,Butterfly (colors of love),,2018.0,,
+Short,,,Audition,,2012.0,,
+"Documentary, Short, Adventure",,23.0,NOMADS BUT NOT...,,2014.0,,<60
+Biography,,,Maxx,,,,
+"Short, Drama",,31.0,Prarabdha,,2013.0,,<60
+"Short, Comedy, Drama",,10.0,The Knot,,2014.0,,<60
+"Documentary, War",,100.0,Beneath Everest: Nepal Reborn,,2010.0,,60-120
+Drama,,,Sapana,,1993.0,,
+"Short, Romance",,,Kati Dherai,,2015.0,,
+Drama,,,So Simple,,2012.0,,
+"Short, Drama",,15.0,They Call It Love,,2012.0,,<60
+"Short, Musical",,5.0,The Outsider's Band: Maili,,2016.0,,<60
+"Short, Drama, Family",,6.0,z,,2017.0,,<60
+,,,Raanko,,1996.0,,
+Action,,,Premnath,,,,
+"Documentary, Biography",,,Mahakabi Devkota,,2001.0,,
+,,,Ajambhari Maya,,2002.0,,
+Documentary,,50.0,The Touched,,2011.0,,<60
+"Documentary, Adventure, Drama",,28.0,UnShattered Desires,,2016.0,,<60
+"Short, Crime, Mystery",,20.0,Parikshya,,2017.0,,<60
+"Drama, Mystery, Romance",,89.0,The Palmist,,2014.0,,60-120
+Drama,,180.0,Kutumberi Saino,,2017.0,,>120mins
+,,,Mr. Mangale,,2008.0,,
+"Short, Music",,,Kehi Mitho Yaadma,,2018.0,,
+Drama,,,Gold Coast 2 Ghorka,,2019.0,,
+"Action, Romance",,,Soltini,,2005.0,,
+"Short, Music",,,Yo Raat Behoshi Yo Bata Behoshi,,2018.0,,
+"Short, Horror",,,Voex,,,,
+"Documentary, Short",,,Choor: Here,,2013.0,,
+"Short, Drama",,,Bhai Tika,,2016.0,,
+"Musical, Romance",,66.0,Gaajal,,2001.0,,60-120
+Documentary,,16.0,The Way To Heaven,,2017.0,,<60
+,8.6,,Aashirbad,5.0,2001.0,high,
+"Short, Drama, Family",,8.0,K Desh Doshi Cha?,,2014.0,,<60
+"Documentary, Short, Adventure",,14.0,Remember Humla,,2013.0,,<60
+,,,Natedar,,2001.0,,
+Documentary,,,Kakhara,,2016.0,,
+"Short, Crime, Drama",,9.0,The Designer,,2015.0,,<60
+"Documentary, Short",,25.0,A Walk to Manang,,2009.0,,<60
+Documentary,,,A Rough Cut on the Life and Times of Lachuman Magar,,2001.0,,
+,,,Daiva Sanjog,,2001.0,,
+"Documentary, Short",,40.0,The Man Who Died Once,,2018.0,,<60
+Documentary,,90.0,The Copper Village,,2015.0,,60-120
+,,,Melong,,2002.0,,
+"Short, Music",,,A Mayalu Timi Lai,,2018.0,,
+"Short, Drama",6.8,30.0,Chaukaith,9.0,2008.0,average,<60
+"Short, Fantasy",8.5,,Fever,8.0,2009.0,high,
+"Short, Drama",,14.0,Kubaato,,2007.0,,<60
+"Short, Drama",,,Paani,,2015.0,,
+,,,Sanyas,,2002.0,,
+"Short, Drama",8.3,27.0,Ma Khushi Chu,26.0,2011.0,high,<60
+"Short, Music",,4.0,Young Torture: Namarosh Hamro Maya,,2015.0,,<60
+"Comedy, Drama, Romance",,21.0,P.S. Zindagi,,2016.0,,<60
+"Documentary, Short",,9.0,Threads of Hope,,2017.0,,<60
+Documentary,,89.0,Tama Gaun: The Copper VIllage,,2015.0,,60-120
+Talk-Show,,29.0,Oscar Fun Talk,,2010.0,,<60
+"Short, Drama",,8.0,Pralobhan,,2015.0,,<60
+"Short, Musical",,5.0,Hero,,2018.0,,<60
+"Short, Drama",7.4,25.0,Saas Fere Jasto Lagcha,9.0,2012.0,high,<60
+"Short, Action, Western",,2.0,Red Bull Vs. Monster,,2011.0,,<60
+,,,Pooja,,2002.0,,
+Documentary,,,Kumari: The Jagat Lama Story,,2014.0,,
+"Short, Musical",,,Hridya Chune,,2005.0,,
+"Short, Drama",,,Waiting Room,,2011.0,,
+"Short, Musical",,,Jindagi Ko Har Mod Ma,,2008.0,,
+Short,,,Hundred Rupees,,,,
+"Short, Drama",,9.0,Evening days,,2016.0,,<60
+"Short, Music",,5.0,Mani Tamang feat. Subani Moktan: Timrai Lagi,,2016.0,,<60
+"Documentary, Short, Family",,34.0,68 Members,,2014.0,,<60
+Documentary,,62.0,Saving Dolma,,2010.0,,60-120
+"Documentary, Short",,18.0,Betterfelt.com,,2010.0,,<60
+Short,,,Pahichan,,2018.0,,
+Drama,,120.0,Vedi Gothale,,2016.0,,60-120
+"Action, Drama",,137.0,Bhariya,,1996.0,,>120mins
+Music,,,Santushti,,2015.0,,
+"Documentary, Short",,,A day in the life of kanchi,,2016.0,,
+Short,,15.0,The Eternal Journey,,2016.0,,<60
+"Short, Music",,3.0,U Got Me,,2017.0,,<60
+"Documentary, Adventure, History",,58.0,Talking to the Air: Horses of the Last Forbidden Kingdom,,2014.0,,<60
+,,,Maya Ko Saino,,2001.0,,
+"Documentary, Short",,25.0,Journey Beyond the Himalayas,,2009.0,,<60
+"Documentary, Short",,27.0,Madhesi,,2017.0,,<60
+Documentary,,85.0,In Search of the Riyal,,2009.0,,60-120
+Drama,,,Aastha,,,,
+"Documentary, Short, Drama",,30.0,The Sound of One Leg Dancing,,2011.0,,<60
+,9.0,,Bakshis,5.0,2002.0,high,
+"Short, Drama",8.1,7.0,Pralobhan,9.0,2015.0,high,<60
+"Action, Drama",,,Mamaghar,,2002.0,,
+"Documentary, Short, Adventure",,30.0,Life on the Road Nepal,,2017.0,,<60
+Documentary,,56.0,Daughters of Everest,,2006.0,,<60
+,,,Baimani,,2001.0,,
+Talk-Show,,30.0,Talk of the town USA,,2015.0,,<60
+"Documentary, Short",,22.0,Denied: A Life Confined,,2013.0,,<60
+"Documentary, Short",,38.0,The Spirit Doesn't Come Anymore,,1997.0,,<60
+"Documentary, Short",,10.0,Scaling the Mountain,,2014.0,,<60
+"Animation, Short, Family",,28.0,Yesarinai Aaru Phulchha,,2011.0,,<60
+"Documentary, Short, History",,26.0,Festival of Tihar,,2018.0,,<60
+,7.3,,Ke Bho Lau Na Ni,6.0,2001.0,high,
+Short,7.3,6.0,Samaya Ra Paristhiti,6.0,2014.0,high,<60
+,,,Pijanda,,2002.0,,
+Short,,2.0,Eve Teasing,,2015.0,,<60
+"Short, Musical",,,Palla Ghar Ko Jhyal Ma,,2003.0,,
+,,,Baacha Bandhan,,2002.0,,
+Drama,,,Rolpa Rog,,2016.0,,
+"Documentary, Drama",8.4,117.0,Riingata,7.0,2015.0,high,60-120
+Reality-TV,,60.0,Nepal Talent Hunt,,2018.0,,<60
+"Short, Action, Adventure",,15.0,The Blessing,,2015.0,,<60
+Drama,,,Suruwaat: Euta Naya Jiwan,,2012.0,,
+"Short, Drama",,12.0,Memory,,2017.0,,<60
+"Short, Musical",,,Gaun Ramililo,,2006.0,,
+Short,,13.0,Bhatbhate,,2016.0,,<60
+"Documentary, Short",,,Moving Mountains,,2015.0,,
+"Drama, Romance",,,Dui Kinara,,2003.0,,
+,7.8,,Nata Ragat Ko,9.0,1999.0,high,
+"Short, Thriller",,5.0,The Lost Locket,,2018.0,,<60
+"Short, Drama, Sci-Fi",6.5,3.0,The Last Evening on Earth,6.0,2015.0,average,<60
+,,,Sannani,,1994.0,,
+,,,Tapasya,,1991.0,,
+Documentary,,18.0,Gyalmu's House,,2016.0,,<60
+Drama,,,Rajamati,,1995.0,,
+"Short, Drama",,14.0,Hiccups,,2017.0,,<60
+"Short, Comedy",,13.0,The Great Mukhiya,,2017.0,,<60
+Short,,12.0,Idiosyncratic,,2019.0,,<60
+"Short, Drama, Family",,2.0,"Sex, Partying & Peer Pressure",,2015.0,,<60
+"Documentary, Short",,17.0,Gold in the Ashes,,2017.0,,<60
+"Documentary, Short",,13.0,Child Centre Out of School Program,,2005.0,,<60
+"Short, Biography",,2.0,Chungi (Colours Of Life),,2015.0,,<60
+Short,,,Purpose of Living,,,,
+,8.3,,Khandan,6.0,2002.0,high,
+"Short, Musical",,,Nilo Aakash,,2006.0,,
+,,,Bhagya Le Jurayo,,2002.0,,
+"Short, Drama",,9.0,Euphues,,2017.0,,<60
+"Drama, Romance",,,Punte Parade,,2014.0,,
+Drama,,,Fulai Fulko Mausam Timilai,,2016.0,,
+"Documentary, Family",,21.0,Supportive Men,,2014.0,,<60
+Drama,,,Alpaviram,,2006.0,,
+Drama,,,Bhor,,2018.0,,
+Documentary,,77.0,Heavenly Place Manang,,2005.0,,60-120
+"Short, Drama",,,Sparsa,,2012.0,,
+Drama,,,Patachara,,2009.0,,
+"Short, Drama",,15.0,Silver Bangles,,2017.0,,<60
+,,,Kaidi,,2001.0,,
+"Short, Music",,,Ko Hola Tyo,,2012.0,,
+Short,,17.0,Crow in the Mist,,2017.0,,<60
+"Documentary, Short",,21.0,Disenchanted Cinema,,2017.0,,<60
+"Short, Musical",,,Bihani Ko Mirmere,,2003.0,,
+Documentary,,30.0,Misheal pariyar,,2018.0,,<60
+"Music, Romance",,,Aavas,,2016.0,,
+"Documentary, Short, History",,36.0,In the Shadow of Darjeeling,,2011.0,,<60
+"Short, Drama",,,Batuli Ko Chura,,2013.0,,
+"Animation, Short, Family",,4.0,Aaroha: Rising Together,,2015.0,,<60
+"Crime, Drama",,138.0,Shree 5 Ambare,,2014.0,,>120mins
+"Documentary, Short",,,Peaks of Emotion: The Children of Ocean Nepal,,2017.0,,
+"Action, Thriller",,,Chakre,,,,
+,,,Pirati Aafai Hudon Rahechha,,2001.0,,
+,,,Ragat,,1995.0,,
+"Short, Music",,4.0,Young Torture: Ek Phera Hasana,,2014.0,,<60
+"Documentary, Biography, Drama",,54.0,The Price of Childhood,,2010.0,,<60
+"Documentary, History",,39.0,"Mani, the Hidden Valley of Happiness at a Crossroads",,2013.0,,<60
+Drama,,,Dukha,,2003.0,,
+"Documentary, Short, Biography",,6.0,The Hermit's Tea Party,,2012.0,,<60
+Short,,3.0,Lekhirahada,,2014.0,,<60
+Short,,,The Making of Himalaya DVD Extra,,2000.0,,
+Musical,,,Ma Yesto Geet Gauchu,,,,
+Documentary,8.5,90.0,Mustang Secrets Beyond the Himalayas,12.0,2009.0,high,60-120
+"Short, Drama",,20.0,Chokhaunee,,2013.0,,<60
+"Short, Drama",8.6,,Khaacho,8.0,2018.0,high,
+"Documentary, Short",,13.0,Quality Education Resource,,2005.0,,<60
+Documentary,,51.0,Sa Karnali,,2006.0,,<60
+Drama,,,Duniya,,2006.0,,
+Game-Show,,,Champion,,2016.0,,
+"Short, Drama",,11.0,Kokh,,2017.0,,<60
+Drama,,,Premalaya,,,,
+Documentary,,52.0,Daughters' Destiny,,2007.0,,<60
+Drama,,,Parivartan,,1971.0,,
+"Short, Biography, Drama",,6.0,The Solitude,,2011.0,,<60
+,,,Sahid Gate,,2002.0,,
+Drama,8.9,,Singha Durbar,9.0,2015.0,high,
+"Short, Action, Drama",,1.0,Strike,,2017.0,,<60
+"Short, Drama, Family",,13.0,Shambhala,,2014.0,,<60
+,,,Yastai Rahecha Jindagi,,2002.0,,
+"Short, Drama",,,Akinchn,,2018.0,,
+"Documentary, Short",,29.0,"Foundation for Hope: Year One of Relief, Recovery and Reconstruction in Nepal",,2016.0,,<60
+"Short, Drama",,38.0,Hotel Elam,,2017.0,,<60
+Short,,,Eviction,,2006.0,,
+"Short, Drama",,,Rog,,2012.0,,
+,,,BabuSaheb,,2002.0,,
+"Short, Music",,7.0,Namari Baanchey,,2018.0,,<60
+"Short, Drama",,,Ghar Desh,,2013.0,,
+"Documentary, Short",,19.0,Dependent Life,,2019.0,,<60
+,,,Bhai Tika,,2002.0,,
+"Documentary, Short",,3.0,Kathmandu Nepal Durbar,,2015.0,,<60
+Drama,,,Cheli Beti,,1989.0,,
+,,,Shadhyantra,,2002.0,,
+"Short, Drama, Family",,10.0,Bibash,,2014.0,,<60
+"Comedy, Drama",5.9,,Chha Ekan Chha,16.0,2014.0,average,
+"Short, Drama",,9.0,Rage: Aakrosh,,2015.0,,<60
+"Short, Drama, Romance",,,The Path to Fool's Paradise,,2017.0,,
+"Short, Adventure, Drama",,5.0,Kagaj,,2012.0,,<60
+Short,,1.0,Hope Remains,,2014.0,,<60
+Documentary,,,Durgamandu,,2017.0,,
+"Short, Drama",,10.0,Prem Apradha,,2014.0,,<60
+Drama,,,Janayuddha,,2008.0,,
+"Short, Music",,,Jun Hau Timi Phool Hau Timi,,2018.0,,
+"Documentary, Short, History",,25.0,Secreat tree: The Birth of Buddha,,2009.0,,<60
+,,,Dulahi,,2001.0,,
+"Documentary, Short",,11.0,Khel,,2013.0,,<60
+,,,Anjuli,,2002.0,,
+Drama,,,Love U Man,,2012.0,,
+,,,Mahadevi,,1993.0,,
+Drama,,,Aago 2,,2015.0,,
+Drama,,,Kumva Karan,,2018.0,,
+"Short, Drama",,,Naya Jhul,,2016.0,,
+"Short, Drama",,8.0,The Moon,,2015.0,,<60
+"Short, Family",,,Khushi,,2011.0,,
+"Short, Drama",,15.0,Omitted Project,,2017.0,,<60
+Comedy,,130.0,Dui Duna Pannch,,2012.0,,>120mins
+"Documentary, Short",,11.0,Children as Partners in Girl's Education,,2005.0,,<60
+"Animation, Short",,,Life is Just a File,,2015.0,,
+"Documentary, Short",,20.0,Bigu,,2010.0,,<60
+"Short, Drama",,,A Drop of Hope,,2011.0,,
+Action,,,La Sorry,,2016.0,,
+Documentary,,52.0,Schools in the Crossfire,,2006.0,,<60
+Drama,,,Birano Mayo,,2016.0,,
+"Documentary, Short, Adventure",,22.0,Hearts in the Himalayas,,2012.0,,<60
+Short,,1.0,If Men Had Periods: Purushpad,,2017.0,,<60
+Comedy,8.7,,The Faaadi Guys Show,7.0,2017.0,high,
+Talk-Show,,,Nepal Music Festival 2014,,2014.0,,
+"Short, Drama",,,Untitled Buddha Film in Nepal,,,,
+"Documentary, Short",,11.0,Mission Rebuild Nepal Stories,,2016.0,,<60
+Thriller,,100.0,Queen of the Himalayas,,,,60-120
+Drama,,,Adhyaya,,2013.0,,
+Family,,47.0,Asamajhdari,,2016.0,,<60
+"Short, Action",,,The Message,,2013.0,,
+"Documentary, Short",,5.0,Refuse,,2014.0,,<60
+"Documentary, Short",,19.0,Seams,,2017.0,,<60
+,,,Mama Bhanja,,2002.0,,
+,,,Santan Ko Maya,,2002.0,,
+Drama,,,Best Friends Forever,,2016.0,,
+"Short, Music",,,Ganesh Senchuri: Fanfani,,2017.0,,
+,,,Bihani,,2001.0,,
+"Short, Musical",,4.0,Swarga Yahan,,2010.0,,<60
+"Documentary, Short",9.0,30.0,Secrets of Dhaulagiri,8.0,2011.0,high,<60
+"Documentary, Short",,29.0,Adolescent Sexual and Reproductive Health,,2009.0,,<60
+,,,Malati,,2002.0,,
+Drama,,,Acceptance,,,,
+Documentary,,49.0,We Corner People,,2007.0,,<60
+"Short, Drama, Family",,12.0,Rupees 500,,2014.0,,<60
+Drama,,,Woolenmary,,,,
+,,,Sauta,,1993.0,,
+"Short, Drama",,4.0,I am Always There For you,,2014.0,,<60
+Drama,,,Maya Preeti,,1989.0,,
+"Documentary, Short, Drama",,15.0,Ghar,,2016.0,,<60
+"Short, Mystery, Romance",,8.0,Virtual Dream,,2014.0,,<60
+"Short, Music",,,Jeevan Yo Rahe Samma,,2019.0,,
+Short,,,Mother,,2019.0,,
+,8.4,,Prithvi,5.0,1994.0,high,
+Musical,,,Rock Band,,,,
+"Short, Drama",,13.0,Punte ko Pangro,,2014.0,,<60
+"Documentary, Short, Adventure",,11.0,The Milk Man,,2016.0,,<60
+Drama,,,Naso,,1997.0,,
+"Short, Drama",,,Comma: Alpabiram,,2015.0,,
+Musical,,30.0, Pokhara.com,,2003.0,,<60
+Musical,,30.0, Pokhara.com,,2003.0,,<60
+Musical,,30.0, Pokhara.com,,2003.0,,<60
+Musical,,, Pokhara.com,,2003.0,,
+"Documentary, Short",,, Herne Katha,,2018.0,,
